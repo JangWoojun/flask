@@ -1,0 +1,5 @@
+pip install -r piplist.txt
+로 설치
+
+py -m venv venvA
+venvA\Scripts\activate
